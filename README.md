@@ -1,5 +1,14 @@
 # Banking Management System
-
+## Table of Contents
+- [Banking Management System](#banking-management-system)
+  - [Project Description](#project-description)
+    - [Key Features](#key-features)
+      - [Admin Features](#admin-features)
+      - [Customer Features](#customer-features)
+  - [Technologies Used](#technologies-used)
+  - [Installation Guide](#installation-guide)
+    - [Prerequisites](#prerequisites)
+  - [Screenshots](#Screenshots)
 ## Project Description
 The **Banking Management System** is a comprehensive solution that enables users to perform online banking operations. It follows the **MVC design pattern** and includes features for managing banks, branches, customers, accounts, transactions, and online banking functionalities. 
 
